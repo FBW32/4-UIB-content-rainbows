@@ -1,0 +1,26 @@
+.red {
+    color: red;
+}
+.orange {
+    color: orange;
+}
+.yellow {
+    color: yellow;
+}
+.green {
+    color: green;
+}
+.blue {
+    color: blue;
+}
+.indigo {
+    color: indigo;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    opacity: 0.5;
+}
+
+p {
+    color: #005261;
+}
