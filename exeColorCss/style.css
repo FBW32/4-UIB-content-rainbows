@@ -1,0 +1,31 @@
+h1 {
+    color: rgba(236, 33, 33, 0.753);
+}
+
+h2 {
+    color: rgba(255, 166, 0, 0.712);
+}
+
+h3 { 
+    color: rgba(255, 255, 0, 0.644);
+}
+
+h4 {
+    color: rgba(0, 128, 0, 0.637);
+}
+
+h5 { 
+    color: rgba(0, 0, 255, 0.767);
+}
+
+h6 {
+    color: rgba(110, 42, 158, 0.945);
+}
+
+p {
+    color: #dca2a1;
+    }
+
+    body {
+        background: rgb(26, 24, 24);
+    }
