@@ -1,0 +1,24 @@
+span{
+    color: red;
+}
+#orange{
+    color: orange;
+}
+#yellow{
+    color: yellow;
+}
+#green{
+    color: rgb(150, 206, 38);
+}
+#blue{
+    color: blue;
+}
+#indigo{
+    color: rgba(59, 13, 92, 0.87);
+} 
+.paragraph{
+    color: rgb(155, 63, 221);
+}
+main{
+    opacity: 0.7;
+}
