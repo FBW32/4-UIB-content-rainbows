@@ -1,0 +1,28 @@
+
+h1{
+    color:rgb(255,0,0);
+    opacity:50%
+}
+h2{
+    color:rgb(255, 165, 0);
+    opacity:50%
+}
+h3{
+    color:rgb(255, 255, 0);
+    opacity:50%
+}
+h4{
+    color:rgb(0, 128, 0);
+    opacity:50%
+}
+h5{
+    color:rgb(0, 0, 255);
+    opacity:50%
+}
+h6{
+    color:rgb(75, 0, 130);
+    opacity:50%
+}
+p{
+   color:#4b0082; 
+}
